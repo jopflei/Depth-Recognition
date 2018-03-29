@@ -1,8 +1,5 @@
-// Daniel Shiffman
-// Depth thresholding example
-
-// https://github.com/shiffman/OpenKinect-for-Processing
-// http://shiffman.net/p5/kinect/
+// Jorit Pfleiderer
+// Depth thresholding
 
 // Original example by Elie Zananiri
 // http://www.silentlycrashing.net
